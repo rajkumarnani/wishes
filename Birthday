@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<style>
+body {
+  	 background-image: url("C:/Users/Rajkumar Nani/Desktop/3.jpg");
+ 	 background-repeat: no-repeat;
+ 	 background-attachment: fixed;
+ 	 background-size: 100% 100%;
+  
+}
+h1 {
+  color: black;
+  margin-top:30vh;
+  font-size:80px;
+  font-style: bold italic;
+h2 {
+  color: yellow;
+  margin-top:30vh;
+  font-size:large;
+  font-style: bold italic;
+}
+</style>
+<h1><center>🎈Happy🎉 Birthday🎂 Buddy🎈!! </center></h1>
+<h2><center>        🎈 God Bless You Always...!!🎈</center></h2>
+<h5>
+</body>
+</html>
